@@ -1,0 +1,85 @@
+
+
+
+
+.top-container{
+    background-color:#FFE6C7;
+    padding-top:150px;
+    padding-bottom: 110px;
+}
+
+h1{
+    color: #E38B29;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+    font-size: 120px;
+    font-weight: bolder;
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+
+
+h2{
+    color: #F1A661;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+    font-size: 60px;
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+.bottom-container{
+    background-color:white;
+    margin-top: 100px;
+
+}
+
+.self{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 45%;
+    border-radius: 50%;
+   
+}
+
+.hello{
+   font-family: 'Pathway Gothic One', sans-serif ;
+   margin-left: 20px;
+   padding-bottom: 20px;
+}
+
+p{
+    display: flex;
+    width: 35%;
+    margin: auto;
+    font-weight: bolder;
+    font-family: 'Josefin Slab', serif;
+    color: black;
+    font-size: 20px
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.skills{
+    font-family: 'Pathway Gothic One', sans-serif ;
+}
+
+.codeing{
+  margin: ;
+}
+
+.typeing{
+margin-left: 250px;
+
+}
